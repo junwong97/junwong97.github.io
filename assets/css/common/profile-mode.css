@@ -19,6 +19,7 @@
 .profile img {
     display: inline-table;
     border-radius: 50%;
+    margin: 0 auto;
 }
 
 .buttons {
