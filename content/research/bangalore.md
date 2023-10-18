@@ -1,5 +1,5 @@
 ---
-title: "Rubbish economics: Decreasing the use of informal dumps in Bengalaru slums" 
+title: "Rubbish economics: Decreasing the use of informal dumps in Bengaluru slums" 
 date: 2023-09-29
 url: /research/bangalore
 #tags: []
