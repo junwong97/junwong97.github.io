@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research on Jun Wong</title>
+    <link>https://junwong.org/research_dynamic/</link>
+    <description>Recent content in Research on Jun Wong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://junwong.org/research_dynamic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rubbish economics: Decreasing the use of informal dumps in Bengaluru slums</title>
+      <link>https://junwong.org/research/bangalore/</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junwong.org/research/bangalore/</guid>
+      <description>We will study the spatial distribution of waste generation and public waste service provision throughout Bengaluru. This will inform the design of targeted supply- and demand-side interventions intended to expand the reach and quality of waste services.</description>
+    </item>
+    
+    <item>
+      <title>Opening up military innovation: An evaluation of reforms to the U.S. Air Force SBIR program</title>
+      <link>https://junwong.org/research/sbir/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junwong.org/research/sbir/</guid>
+      <description>A critical dimension of government innovation procurement is whether to specify desired products (conventional) or allow firms to suggest ideas (open). We evaluate reforms to a U.S. Air Force R&amp;amp;D grant program where both conventional and open competitions were held simultaneously. Open awards increase commercial innovation and technology adoption by the military.</description>
+    </item>
+    
+    <item>
+      <title>Lender automation and racial disparities in credit access</title>
+      <link>https://junwong.org/research/ppp/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://junwong.org/research/ppp/</guid>
+      <description>Process automation can reduce racial disparities in credit access. We study this in the context of the Paycheck Protection Program (PPP) where lenders faced no credit risk but decided which firms to serve. Black-owned firms primarily obtained PPP loans from automated fintech lenders, especially in areas with high racial animus.</description>
+    </item>
+    
+    <item>
+      <title>Market potential for CO2 removal and sequestration from renewable natural gas production in California</title>
+      <link>https://junwong.org/research/rng/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://junwong.org/research/rng/</guid>
+      <description>We develop a spatially explicit optimization model to assess niche markets for renewable natural gas (RNG) production with carbon capture and sequestration (CCS) from waste biomass in California. Policy incentives can catalyze niche markets for the production of renewable natural gas with carbon capture and sequestration from waste biomass in California.</description>
+    </item>
+    
+    <item>
+      <title>Innovative wood use can enable carbon-beneficial forest management in California</title>
+      <link>https://junwong.org/papers/wooduse/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://junwong.org/papers/wooduse/</guid>
+      <description>Natural carbon sinks can help mitigate climate change but are exposed to wildfire risk. Forest management can reduce wildfire risk but incur carbon losses because wood residues are often burnt or left to decay. We assess climate change mitigation potential and wildfire outcomes across forest management scenarios and several wood products.</description>
+    </item>
+    
+  </channel>
+</rss>

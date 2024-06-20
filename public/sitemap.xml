@@ -2,164 +2,124 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pascalmichaillat.org/design/</loc>
+    <loc>https://junwong.org/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://junwong.org/research_dynamic/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://junwong.org/research/bangalore/</loc>
+    <lastmod>2023-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://junwong.org/design/</loc>
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/d4/</loc>
+    <loc>https://junwong.org/d4/</loc>
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/d2/</loc>
+    <loc>https://junwong.org/d2/</loc>
     <lastmod>2023-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/d5/</loc>
+    <loc>https://junwong.org/d5/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/business-cycles/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/efficiency/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/job-rationing/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/matching-model/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/14/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/papers/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/state-dependence/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/unemployment/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/wage-rigidity/</loc>
-    <lastmod>2023-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/d1/</loc>
+    <loc>https://junwong.org/d1/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/d3/</loc>
+    <loc>https://junwong.org/d3/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/12/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/metascience/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/beveridge-curve/</loc>
+    <loc>https://junwong.org/tags/beveridge-curve/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/c5/</loc>
+    <loc>https://junwong.org/tags/business-cycles/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/courses/</loc>
+    <loc>https://junwong.org/c5/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/economic-slack/</loc>
+    <loc>https://junwong.org/courses/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/government-spending/</loc>
+    <loc>https://junwong.org/tags/economic-slack/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/monetary-policy/</loc>
+    <loc>https://junwong.org/tags/efficiency/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/price-rigidity/</loc>
+    <loc>https://junwong.org/tags/government-spending/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/stabilization-policy/</loc>
+    <loc>https://junwong.org/tags/matching-model/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/sufficient-statistics/</loc>
+    <loc>https://junwong.org/tags/monetary-policy/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/unemployment-gap/</loc>
+    <loc>https://junwong.org/tags/price-rigidity/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/13/</loc>
-    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
+    <loc>https://junwong.org/tags/stabilization-policy/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/c2/</loc>
+    <loc>https://junwong.org/tags/sufficient-statistics/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://junwong.org/tags/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://junwong.org/tags/unemployment-gap/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://junwong.org/research/sbir/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://junwong.org/c2/</loc>
     <lastmod>2022-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/7/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <loc>https://junwong.org/research/ppp/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/optimal-control/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/social-psychology/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/wealth-in-the-utility/</loc>
-    <lastmod>2022-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/multiplier/</loc>
+    <loc>https://junwong.org/tags/job-rationing/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/c1/</loc>
+    <loc>https://junwong.org/tags/multiplier/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/unemployment-insurance/</loc>
+    <loc>https://junwong.org/tags/unemployment/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/9/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+    <loc>https://junwong.org/c1/</loc>
+    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/new-keynesian-model/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <loc>https://junwong.org/tags/unemployment-insurance/</loc>
+    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/8/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <loc>https://junwong.org/tags/wage-rigidity/</loc>
+    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/differential-equations/</loc>
-    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+    <loc>https://junwong.org/research/rng/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/11/</loc>
-    <lastmod>2021-05-10T00:00:00+00:00</lastmod>
+    <loc>https://junwong.org/papers/wooduse/</loc>
+    <lastmod>2021-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/6/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/10/</loc>
-    <lastmod>2018-12-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/c4/</loc>
+    <loc>https://junwong.org/c4/</loc>
     <lastmod>2018-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/5/</loc>
-    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/4/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/3/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/2/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/c3/</loc>
+    <loc>https://junwong.org/tags/differential-equations/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/1/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+    <loc>https://junwong.org/c3/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/location/</loc>
+    <loc>https://junwong.org/tags/optimal-control/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/officehours/</loc>
+    <loc>https://junwong.org/location/</loc>
+  </url><url>
+    <loc>https://junwong.org/officehours/</loc>
+  </url><url>
+    <loc>https://junwong.org/research/</loc>
   </url>
 </urlset>
