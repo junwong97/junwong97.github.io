@@ -16,7 +16,7 @@ menu:
           weight: 1
 
 params:
-    description: "I am a PhD student at the University of Chicago interested in development, environmental, and spatial economics."
+    description: "I am a PhD student at the University of Chicago working in development and environmental economics."
     author: Jun Wong
     googleAnalyticsID: "G-3D8MPDLYFV"
     DateFormat: "January 2006"
@@ -41,7 +41,7 @@ params:
     profileMode:
           enabled: true
           title: Jun Wong
-          subtitle: "I'm a third-year PhD student in the **Economics** department at the **University of Chicago**. Before Chicago, I was a research assistant at NYU Stern School of Business and the Environmental Science, Policy, and Management department at UC Berkeley. I graduated from UC Berkeley with a degree in Economics. My research interests are in **development** and **environmental economics**. Much of my current research focuses on informal environmental and energy markets in low and middle income countries."
+          subtitle: "I'm a fourth-year PhD student in the **Economics** department at the University of Chicago. My research interests are in **development** and **energy and environmental** economics, particularly in informal environmental and energy markets in LMICs. I have worked as a research assistant at NYU Stern and UC Berkeley Carbon Removal Lab."
           imageUrl: "/headshot.jpeg"
           imageWidth: 155
           imageHeight: 160
@@ -68,8 +68,8 @@ params:
         #  url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         #- name: YouTube
         #  url: https://www.youtube.com/@pmichaillat
-        #- name: GitHub
-        #  url: https://github.com/pmichaillat?tab=repositories
+        - name: GitHub
+          url: https://github.com/junwong97
 
     assets:
         disableHLJS: true
