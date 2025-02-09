@@ -41,7 +41,7 @@ params:
     profileMode:
           enabled: true
           title: Jun Wong
-          subtitle: "I'm a fourth-year PhD student in the **Economics** department at the University of Chicago. My research interests are in **development** and **energy and environmental** economics, particularly in informal environmental and energy markets in LMICs. I have worked as a research assistant at NYU Stern and UC Berkeley Carbon Removal Lab. <br> <small style='color:gray'> Photo: [Rey Oliva](https://linktr.ee/reyjroliva) </small>"
+          subtitle: "I'm a fourth-year PhD student in the **Economics** department at the University of Chicago. My research interests are in **development** and **energy and environmental** economics, particularly in informal environmental and energy markets in LMICs. I have worked as a research assistant at NYU Stern and UC Berkeley Carbon Removal Lab. <br> <small> Photo: [Rey Oliva](https://linktr.ee/reyjroliva) </small>"
           imageUrl: "/headshot.jpg"
           imageWidth: 155
           imageHeight: 167
