@@ -9,16 +9,30 @@ hidemeta: true
 
 ## Working Papers
 
-[__Opening up military innovation: Causal effects of reforms to U.S. defense research__](https://www.nber.org/system/files/working_papers/w28700/w28700.pdf) \
+[__Firm adaptation and reallocation under rationing: Evidence from South Africa__](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5459197) \
+_with_ Rowan Clarke, Chris Eaglin, and Zachary Kuloszewski; _updated September 2025_ \
+<small><a href="#/" onclick="visib('rationing_abstract')">Abstract</a> &middot; [Draft](/rationing.pdf) </small>
+<div id="rationing_abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Rationing policies are frequently implemented due to equity concerns. We study whether equitable-exposure rationing rules deliver equal economic impacts in the context of the 2021--2023 power crisis in South Africa. We leverage shocks to outage intensity and a rotational assignment system to generate quasi-random variation in electricity outage exposure, and we combine detailed hour-level outages with geocoded transactions data from a leading payment platform in Cape Town. Although we find that aggregate daily sales do not change on outage days, there is substantial heterogeneity across the firm distribution. Revenue is reallocated through consumers substituting between firms: baseline high-performing firms able to invest in defensive technology capture the spending displaced from their competitors, gaining roughly nine percent in daily sales while the latter lose a similar share. Unequal effects are amplified when firms are able to anticipate electricity outages. The results suggest the impacts of rationing are not equal despite equitable exposure.
+</small><br><br/></div>
+
+[__Urban expansion, drought risk, and willingness-to-pay for piped water__](/crisis.pdf) \
+_with_ Ashton Pallottini and Emma Zhang; _updated September 2025_ \
+<small><a href="#/" onclick="visib('crisis_abstract')">Abstract</a> &middot; [Draft](/crisis.pdf) </small>
+<div id="crisis_abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Cities in the global south are rapidly expanding into areas that are not serviced by public utilities such as piped water, relying instead on private substitutes like groundwater. We examine rising groundwater drought risk to investigate how a shock to the quality of these private substitutes impacts demand for public utilities. We estimate that a major groundwater drought in Bangalore permanently increased residents' willingness-to-pay to live near the pipe network by 0.4\% of monthly rents per 100m. We show consequently that new residential construction projects that are close to the piped water network increased by 25-51\% relative to those that are farther. Using a structural model of housing demand, we find that housing market adjustment recover 20\% of the welfare gains of expanded pipe access at just 2.4\% the cost. Our findings highlight both that public infrastructure quality governs urban expansion and that housing markets enable adaptation to local environmental hazards.
+</small><br><br/></div>
+
+## Publications
+
+[__Opening up military innovation: Causal effects of reforms to U.S. defense research__](https://www.journals.uchicago.edu/doi/10.1086/737235) \
 _with_ Sabrina Howell, Jason Rathje, and John Van Reenen \
-Accepted, _Journal of Political Economy_ \
+Forthcoming, _Journal of Political Economy_ \
 _WRDS Award for Best Empirical Finance Paper, 2021_ \
 <small><a href="#/" onclick="visib('sbir_abstract')">Abstract</a> &middot; [Ungated](/sbir.pdf) </small>
 <div id="sbir_abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
 For governments procuring innovation, one choice is whether to specify desired products (a “Conventional” approach) or allow firms to suggest ideas (an “Open” approach). Using a U.S. Air Force R&D grant program, where Open and Conventional competitions were held simultaneously, we find that Open awards increase both commercial innovation and technology adoption by the military. In contrast, Conventional awards have no positive effects on new technology, but do create more program lock-in. We present evidence that openness matters independently from inducing differential selection, for example of less well-established firms. These results suggest benefits from open approaches to innovation procurement.
 </small><br><br/></div>
-
-## Publications
 
 [__Lender automation and racial disparities in credit access__](https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13303) \
 _with_ Sabrina Howell, Theresa Kuchler, David Snitkof, and Johannes Stroebel \
@@ -54,10 +68,6 @@ _with_ Zachary Kuloszewski
 __The role of informal workers in scaling waste management solutions: Evidence from Delhi__ \
 _with_ Ashton Pallotini, Yixin Sun, and Emma Zhang \
 <small>[EPIC India Summary](https://epic.uchicago.in/project/optimizing-waste-management-and-reducing-methane-emissions-in-delhi/) </small>
-
-__Blackouts and firm performance__ \
-_with_ Rowan Clarke, Chris Eaglin, and Zachary Kuloszewski
-
 
 <script>
  function visib(id) {
